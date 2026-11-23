@@ -1,5 +1,5 @@
 # Bank Customer Churn Analysis
-
+![Bank Customer Churn Dashboard](Images/Bank_Churn_Dashboard.png)
 ## Project Overview
 
 Customer churn is a significant challenge for banks, as losing customers can affect revenue, customer relationships, and long-term business growth.
