@@ -35,6 +35,14 @@ The analysis was performed using Python in Jupyter Notebook, followed by data an
 5. Customer Churn Insights
 6. Power BI Dashboard
 
+## Key Insights Section 
+
+1. Overall customer churn rate is 20.37%.
+2. Female customers have a higher churn rate than male customers.
+3. Customers with 3 or 4 banking products show significantly higher churn rates; these segments should be investigated further, especially considering their customer counts.
+4. Retired customers show higher churn compared to other age groups.
+5. Credit card ownership shows very little difference in churn rate.
+
 ## Project Structure
 
 - `data/` – Raw and processed datasets
@@ -42,4 +50,4 @@ The analysis was performed using Python in Jupyter Notebook, followed by data an
 
 ## Project Status
 
-Python-based analysis completed. Power BI dashboard development and project documentation are being finalized.
+Project Status: Completed — Data analysis, business insights, and Power BI dashboard development.
